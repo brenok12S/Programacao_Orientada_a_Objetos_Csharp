@@ -1,0 +1,8 @@
+C:\Users\breno\source\repos\pooAreaDeRetangulo\pooAreaDeRetangulo\bin\Debug\pooAreaDeRetangulo.exe.config
+C:\Users\breno\source\repos\pooAreaDeRetangulo\pooAreaDeRetangulo\bin\Debug\pooAreaDeRetangulo.exe
+C:\Users\breno\source\repos\pooAreaDeRetangulo\pooAreaDeRetangulo\bin\Debug\pooAreaDeRetangulo.pdb
+C:\Users\breno\source\repos\pooAreaDeRetangulo\pooAreaDeRetangulo\obj\Debug\pooAreaDeRetangulo.csproj.AssemblyReference.cache
+C:\Users\breno\source\repos\pooAreaDeRetangulo\pooAreaDeRetangulo\obj\Debug\pooAreaDeRetangulo.csproj.SuggestedBindingRedirects.cache
+C:\Users\breno\source\repos\pooAreaDeRetangulo\pooAreaDeRetangulo\obj\Debug\pooAreaDeRetangulo.csproj.CoreCompileInputs.cache
+C:\Users\breno\source\repos\pooAreaDeRetangulo\pooAreaDeRetangulo\obj\Debug\pooAreaDeRetangulo.exe
+C:\Users\breno\source\repos\pooAreaDeRetangulo\pooAreaDeRetangulo\obj\Debug\pooAreaDeRetangulo.pdb

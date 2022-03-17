@@ -1,0 +1,8 @@
+C:\Users\breno\source\repos\ExemploEncapsulamento\ExemploEncapsulamento\bin\Debug\ExemploEncapsulamento.exe.config
+C:\Users\breno\source\repos\ExemploEncapsulamento\ExemploEncapsulamento\bin\Debug\ExemploEncapsulamento.exe
+C:\Users\breno\source\repos\ExemploEncapsulamento\ExemploEncapsulamento\bin\Debug\ExemploEncapsulamento.pdb
+C:\Users\breno\source\repos\ExemploEncapsulamento\ExemploEncapsulamento\obj\Debug\ExemploEncapsulamento.csproj.AssemblyReference.cache
+C:\Users\breno\source\repos\ExemploEncapsulamento\ExemploEncapsulamento\obj\Debug\ExemploEncapsulamento.csproj.SuggestedBindingRedirects.cache
+C:\Users\breno\source\repos\ExemploEncapsulamento\ExemploEncapsulamento\obj\Debug\ExemploEncapsulamento.csproj.CoreCompileInputs.cache
+C:\Users\breno\source\repos\ExemploEncapsulamento\ExemploEncapsulamento\obj\Debug\ExemploEncapsulamento.exe
+C:\Users\breno\source\repos\ExemploEncapsulamento\ExemploEncapsulamento\obj\Debug\ExemploEncapsulamento.pdb

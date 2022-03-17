@@ -1,0 +1,8 @@
+C:\Users\breno\source\repos\ExemploAbstracao\ExemploAbstracao\obj\Debug\ExemploAbstracao.csproj.AssemblyReference.cache
+C:\Users\breno\source\repos\ExemploAbstracao\ExemploAbstracao\obj\Debug\ExemploAbstracao.csproj.SuggestedBindingRedirects.cache
+C:\Users\breno\source\repos\ExemploAbstracao\ExemploAbstracao\obj\Debug\ExemploAbstracao.csproj.CoreCompileInputs.cache
+C:\Users\breno\source\repos\ExemploAbstracao\ExemploAbstracao\bin\Debug\ExemploAbstracao.exe.config
+C:\Users\breno\source\repos\ExemploAbstracao\ExemploAbstracao\bin\Debug\ExemploAbstracao.exe
+C:\Users\breno\source\repos\ExemploAbstracao\ExemploAbstracao\bin\Debug\ExemploAbstracao.pdb
+C:\Users\breno\source\repos\ExemploAbstracao\ExemploAbstracao\obj\Debug\ExemploAbstracao.exe
+C:\Users\breno\source\repos\ExemploAbstracao\ExemploAbstracao\obj\Debug\ExemploAbstracao.pdb

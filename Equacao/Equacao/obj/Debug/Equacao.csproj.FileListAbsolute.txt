@@ -1,0 +1,8 @@
+C:\Users\breno\source\repos\Equacao\Equacao\bin\Debug\Equacao.exe.config
+C:\Users\breno\source\repos\Equacao\Equacao\bin\Debug\Equacao.exe
+C:\Users\breno\source\repos\Equacao\Equacao\bin\Debug\Equacao.pdb
+C:\Users\breno\source\repos\Equacao\Equacao\obj\Debug\Equacao.csproj.AssemblyReference.cache
+C:\Users\breno\source\repos\Equacao\Equacao\obj\Debug\Equacao.csproj.SuggestedBindingRedirects.cache
+C:\Users\breno\source\repos\Equacao\Equacao\obj\Debug\Equacao.csproj.CoreCompileInputs.cache
+C:\Users\breno\source\repos\Equacao\Equacao\obj\Debug\Equacao.exe
+C:\Users\breno\source\repos\Equacao\Equacao\obj\Debug\Equacao.pdb

@@ -1,0 +1,8 @@
+C:\Users\breno\source\repos\MaiorIdade\MaiorIdade\bin\Debug\MaiorIdade.exe.config
+C:\Users\breno\source\repos\MaiorIdade\MaiorIdade\bin\Debug\MaiorIdade.exe
+C:\Users\breno\source\repos\MaiorIdade\MaiorIdade\bin\Debug\MaiorIdade.pdb
+C:\Users\breno\source\repos\MaiorIdade\MaiorIdade\obj\Debug\MaiorIdade.csproj.AssemblyReference.cache
+C:\Users\breno\source\repos\MaiorIdade\MaiorIdade\obj\Debug\MaiorIdade.csproj.SuggestedBindingRedirects.cache
+C:\Users\breno\source\repos\MaiorIdade\MaiorIdade\obj\Debug\MaiorIdade.csproj.CoreCompileInputs.cache
+C:\Users\breno\source\repos\MaiorIdade\MaiorIdade\obj\Debug\MaiorIdade.exe
+C:\Users\breno\source\repos\MaiorIdade\MaiorIdade\obj\Debug\MaiorIdade.pdb

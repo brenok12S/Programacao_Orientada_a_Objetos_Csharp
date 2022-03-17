@@ -1,0 +1,8 @@
+C:\Users\breno\source\repos\ExemploPolimorfismoHeranca\ExemploPolimorfismoHeranca\bin\Debug\ExemploPolimorfismoHeranca.exe.config
+C:\Users\breno\source\repos\ExemploPolimorfismoHeranca\ExemploPolimorfismoHeranca\bin\Debug\ExemploPolimorfismoHeranca.exe
+C:\Users\breno\source\repos\ExemploPolimorfismoHeranca\ExemploPolimorfismoHeranca\bin\Debug\ExemploPolimorfismoHeranca.pdb
+C:\Users\breno\source\repos\ExemploPolimorfismoHeranca\ExemploPolimorfismoHeranca\obj\Debug\ExemploPolimorfismoHeranca.csproj.AssemblyReference.cache
+C:\Users\breno\source\repos\ExemploPolimorfismoHeranca\ExemploPolimorfismoHeranca\obj\Debug\ExemploPolimorfismoHeranca.csproj.SuggestedBindingRedirects.cache
+C:\Users\breno\source\repos\ExemploPolimorfismoHeranca\ExemploPolimorfismoHeranca\obj\Debug\ExemploPolimorfismoHeranca.csproj.CoreCompileInputs.cache
+C:\Users\breno\source\repos\ExemploPolimorfismoHeranca\ExemploPolimorfismoHeranca\obj\Debug\ExemploPolimorfismoHeranca.exe
+C:\Users\breno\source\repos\ExemploPolimorfismoHeranca\ExemploPolimorfismoHeranca\obj\Debug\ExemploPolimorfismoHeranca.pdb

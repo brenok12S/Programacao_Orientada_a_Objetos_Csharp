@@ -1,0 +1,8 @@
+C:\Users\breno\source\repos\CaluloDistancia\CaluloDistancia\bin\Debug\CaluloDistancia.exe.config
+C:\Users\breno\source\repos\CaluloDistancia\CaluloDistancia\bin\Debug\CaluloDistancia.exe
+C:\Users\breno\source\repos\CaluloDistancia\CaluloDistancia\bin\Debug\CaluloDistancia.pdb
+C:\Users\breno\source\repos\CaluloDistancia\CaluloDistancia\obj\Debug\CaluloDistancia.csproj.AssemblyReference.cache
+C:\Users\breno\source\repos\CaluloDistancia\CaluloDistancia\obj\Debug\CaluloDistancia.csproj.SuggestedBindingRedirects.cache
+C:\Users\breno\source\repos\CaluloDistancia\CaluloDistancia\obj\Debug\CaluloDistancia.csproj.CoreCompileInputs.cache
+C:\Users\breno\source\repos\CaluloDistancia\CaluloDistancia\obj\Debug\CaluloDistancia.exe
+C:\Users\breno\source\repos\CaluloDistancia\CaluloDistancia\obj\Debug\CaluloDistancia.pdb

@@ -1,0 +1,8 @@
+C:\Users\breno\source\repos\pooEquacao\pooEquacao\bin\Debug\pooEquacao.exe.config
+C:\Users\breno\source\repos\pooEquacao\pooEquacao\bin\Debug\pooEquacao.exe
+C:\Users\breno\source\repos\pooEquacao\pooEquacao\bin\Debug\pooEquacao.pdb
+C:\Users\breno\source\repos\pooEquacao\pooEquacao\obj\Debug\pooEquacao.csproj.AssemblyReference.cache
+C:\Users\breno\source\repos\pooEquacao\pooEquacao\obj\Debug\pooEquacao.csproj.SuggestedBindingRedirects.cache
+C:\Users\breno\source\repos\pooEquacao\pooEquacao\obj\Debug\pooEquacao.csproj.CoreCompileInputs.cache
+C:\Users\breno\source\repos\pooEquacao\pooEquacao\obj\Debug\pooEquacao.exe
+C:\Users\breno\source\repos\pooEquacao\pooEquacao\obj\Debug\pooEquacao.pdb

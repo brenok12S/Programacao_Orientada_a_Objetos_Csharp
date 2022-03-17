@@ -1,0 +1,8 @@
+C:\Users\breno\source\repos\pooAnimaisDeEstimacao\pooAnimaisDeEstimacao\bin\Debug\pooAnimaisDeEstimacao.exe.config
+C:\Users\breno\source\repos\pooAnimaisDeEstimacao\pooAnimaisDeEstimacao\bin\Debug\pooAnimaisDeEstimacao.exe
+C:\Users\breno\source\repos\pooAnimaisDeEstimacao\pooAnimaisDeEstimacao\bin\Debug\pooAnimaisDeEstimacao.pdb
+C:\Users\breno\source\repos\pooAnimaisDeEstimacao\pooAnimaisDeEstimacao\obj\Debug\pooAnimaisDeEstimacao.csproj.AssemblyReference.cache
+C:\Users\breno\source\repos\pooAnimaisDeEstimacao\pooAnimaisDeEstimacao\obj\Debug\pooAnimaisDeEstimacao.csproj.SuggestedBindingRedirects.cache
+C:\Users\breno\source\repos\pooAnimaisDeEstimacao\pooAnimaisDeEstimacao\obj\Debug\pooAnimaisDeEstimacao.csproj.CoreCompileInputs.cache
+C:\Users\breno\source\repos\pooAnimaisDeEstimacao\pooAnimaisDeEstimacao\obj\Debug\pooAnimaisDeEstimacao.exe
+C:\Users\breno\source\repos\pooAnimaisDeEstimacao\pooAnimaisDeEstimacao\obj\Debug\pooAnimaisDeEstimacao.pdb
